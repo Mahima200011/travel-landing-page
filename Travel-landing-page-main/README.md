@@ -19,11 +19,8 @@ Utilizes HTML and CSS styling.
 
 ## Demo
 
-A live demo of the project can be found https://travel-landing-pages.netlify.app/.
+A live demo of the project can be found https://travel-landing-pages.netlify.app/
 
-## Installation
-
-Clone the repository: git clone https://github.com/Godson2611/Travel-landing-page.git
 
 ## Usage
 
